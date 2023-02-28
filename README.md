@@ -1,1 +1,1 @@
-# DBMS_Lab-4
+# Samyukthapilla_DBMS_LAB4
